@@ -10,8 +10,9 @@ function Producto(compra) {
 //Método para imprimir un producto en html
 Producto.prototype.toHTML = function () {
   var html = '';
-  html += this.compra.toUpperCase() + '<br>';
-  html += '<br><br>';
+  var num = 0;
+  html += this.producttID+ " "+ this.compra.toUpperCase() + '<br>';
+  //html += '<br><br>';
   return html;
 }
 

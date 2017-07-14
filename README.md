@@ -30,11 +30,12 @@
 + Se usaron funciones para la captura de datos e impresión de los mismos.
 
 ## Resultado
-Portada de entrada
+*Portada de entrada*
 ![Alt-Text](capture.png)
 
-Boton Añadir nueva fruta
-![Alt-Text](boton.png)  ![Alt-Text](boton2.png)
+*Boton Añadir nueva fruta*
+![Alt-Text](boton.png)  
+![Alt-Text](boton2.png)
 
-Frutas agregadas en lista
+*Frutas agregadas en lista*
 ![Alt-Text](lista.png)

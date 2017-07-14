@@ -35,7 +35,7 @@
 
 *Boton Añadir nueva fruta*
 
-Fruta añadida
+*Fruta añadida*
 ![Alt-Text](boton.png)
 ![Alt-Text](boton2.png)
 

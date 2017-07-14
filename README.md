@@ -3,6 +3,7 @@
 ## Proceso
 
  **1. HTML**
+	
 	* Título: "Lista de Fruta!"  El cual se realizo con un tamaño h1
 	* Subtítulo: "Frutas Master"  con tamaño h4
 	* Presentación: "Frutas Master es una empresa familiar de tercera generacion ..." 
@@ -16,6 +17,7 @@
 
 
 **2. CSS**
+	
 	* Se copio CSS previamente realizado para proyecto de compra.
 	* Fuentes: tipo de letra usada "sans-serif"
 	* Body Background: color de fondo "Cornsilk"
@@ -24,10 +26,20 @@
 
 
 **3. JAVASCRIPT**
+	
 	* Bajo el modelo anteriormente creado para el proyecto de compra.
 	* Se agrego un prompt bajo diseño de sweetalert el cual permite el ingreso de datos de frutas de forma más llamativa.
 	* Se inicia declarando una lista en el cual se guardaron los datos referentes a las frutas.
 	* Se usaron funciones para la captura de datos e impresión de los mismos.
 
 ## Resultado
+	Portada de entrada
 ![Alt-Text](capture.png)
+
+	Boton Añadir nueva fruta
+![Alt-Text](boton.png)
+![Alt-Text](boton2.png)
+![Alt-Text](boton2.png)
+
+	Frutas agregadas en lista
+![Alt-Text](lista.png)

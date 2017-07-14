@@ -12,7 +12,6 @@ Producto.prototype.toHTML = function () {
   var html = '';
   var num = 0;
   html += this.producttID+ " "+ this.compra.toUpperCase() + '<br>';
-  //html += '<br><br>';
   return html;
 }
 

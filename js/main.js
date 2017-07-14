@@ -30,14 +30,15 @@ function printHTML (html){
   records.innerHTML = html;
 }
 
+//funcion para imprimir todos las frutas
+function printAll(){
+  printHTML(mergeHTML());
+}
+
+
 // Cuando hacen click en el boton de nueva compra, crea una nueva compra y la añade al array de productos
-   //se hizo cambio en el formato del prompt
 var addCompra = document.getElementById('nuevacompra');
 addCompra.onclick = function() {
-  //var compra = prompt('Ingrese su nueva compra');
-
-  
-
   swal({
             title: "¿Que fruta desea agregar?",
             text: "Ingrese el nombre de la fruta a agregar",
@@ -59,13 +60,6 @@ addCompra.onclick = function() {
             swal("Perfecto", "Escribiste: " + compra, "success");
                 var product  = new Producto (compra);
                 productos.push(product);
-                printHTML(product.toHTML());                               
+                printAll();                              
       });
 };
-
-
-// al hacerle click a mostrar todas las compras, imprime todas las compras en el html. ESTA ESTÁ BUENA, NO CAMBIAR NADA
-var printAll = document.getElementById('print');
-printAll.onclick = function() {
-  printHTML(mergeHTML());
-}

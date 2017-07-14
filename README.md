@@ -3,10 +3,9 @@
 ## Proceso
 
  **1. HTML**
-	
-	* Título: "Lista de Fruta!"  El cual se realizo con un tamaño h1
-	* Subtítulo: "Frutas Master"  con tamaño h4
-	* Presentación: "Frutas Master es una empresa familiar de tercera generacion ..." 
+		* Título: "Lista de Fruta!"  El cual se realizo con un tamaño h1
+		* Subtítulo: "Frutas Master"  con tamaño h4
+		* Presentación: "Frutas Master es una empresa familiar de tercera generacion ..." 
 	  Se refiere a la presentación de la empresa, se realizo con un tipo de texto párrafo p
 	* Se inserto una imagen con formato gif
 	* Se agrego un botón para la captura de datos de la lista de frutas

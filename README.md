@@ -3,16 +3,16 @@
 ## Proceso
 
  **1. HTML**
-		* Título: "Lista de Fruta!"  El cual se realizo con un tamaño h1
-		* Subtítulo: "Frutas Master"  con tamaño h4
-		* Presentación: "Frutas Master es una empresa familiar de tercera generacion ..." 
-	  Se refiere a la presentación de la empresa, se realizo con un tipo de texto párrafo p
-	* Se inserto una imagen con formato gif
-	* Se agrego un botón para la captura de datos de la lista de frutas
-	* Subtítulo: "Lista de frutas: Catálogo" con tamaño h3
-	* Espacio div: Para la proyección de los resultados de la lista de frutas
-	* Extra: A lo anterior fue agregado la librería de sweetalert para los cambios en los tipos de alerta
-	  para la captura de datos de la lista de frutas
++ Título: "Lista de Fruta!"  El cual se realizo con un tamaño h1
++ Subtítulo: "Frutas Master"  con tamaño h4
++ Presentación: "Frutas Master es una empresa familiar de tercera generacion ..." 
+  Se refiere a la presentación de la empresa, se realizo con un tipo de texto párrafo p
++ Se inserto una imagen con formato gif
++ Se agrego un botón para la captura de datos de la lista de frutas
++ Subtítulo: "Lista de frutas: Catálogo" con tamaño h3
++ Espacio div: Para la proyección de los resultados de la lista de frutas
++ Extra: A lo anterior fue agregado la librería de sweetalert para los cambios en los tipos de alerta
+  para la captura de datos de la lista de frutas
 
 
 **2. CSS**
@@ -35,9 +35,9 @@
 Portada de entrada
 ![Alt-Text](capture.png)
 
-	Boton Añadir nueva fruta
-![Alt-Text](boton.png)  ![Alt-Text](boton2.png)
+Boton Añadir nueva fruta
+![Alt-Text](boton.png)  
+![Alt-Text](boton2.png)
 
-
-	Frutas agregadas en lista
+Frutas agregadas en lista
 ![Alt-Text](lista.png)

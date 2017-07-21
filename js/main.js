@@ -35,7 +35,6 @@ function printAll(){
   printHTML(mergeHTML());
 }
 
-
 // Cuando hacen click en el boton de nueva compra, crea una nueva compra y la añade al array de productos
 var addCompra = document.getElementById('nuevacompra');
 addCompra.onclick = function() {
